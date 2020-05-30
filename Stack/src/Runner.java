@@ -2,8 +2,8 @@
 public class Runner {
 	public static void main(String args[])
 	{
-		//StackImplementation_FixedArray st = new StackImplementation_FixedArray();
-		DStack ds = new DStack();
+		StackImplementation_FixedArray st = new StackImplementation_FixedArray();
+		/*DStack ds = new DStack();
 		 ds.push(2);
 		 ds.push(3);
 		 ds.push(4);
@@ -13,9 +13,9 @@ public class Runner {
 		 ds.pop();
 		 ds.pop();
 		 ds.pop();
-		 ds.show();
+		 ds.show();*/
 		 
-		    /* //  System.out.println("Empty = "+st.isEmpty());
+		     //  System.out.println("Empty = "+st.isEmpty());
 				st.push(4);
 				st.push(5);
 				st.push(6);
@@ -27,7 +27,7 @@ public class Runner {
 				//System.out.println("Empty = "+st.isEmpty());
 				st.push(12);
 				st.show();
-				System.out.println("size is "+st.size());
+				/*System.out.println("size is "+st.size());
 				System.out.println("poped value is" +st.pop());
 				System.out.println("poped value is" +st.pop());
 				System.out.println("poped value is" +st.pop());

@@ -6,7 +6,7 @@ public class Runner {
 	lls.push(8);
 	lls.push(9);
 	lls.push(81);
-	lls.pop();
+	//lls.pop();
 	/*lls.pop();
 	lls.pop();
 	lls.pop();*/
